@@ -87,4 +87,4 @@ Select * from AVG_Cust_Rating;
 Select * from total_successful_ride_value;
 
 #10. List all incomplete rides along with the reason:
-Select * from Incomplete_Rides_Reason
+Select * from Incomplete_Rides_Reason;
